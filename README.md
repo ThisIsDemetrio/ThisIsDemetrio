@@ -20,7 +20,7 @@ I like a lot of stuff, like:
 
 - 🎵 the song I'm hooked to is [*Your Woman* by *White Town*](https://www.youtube.com/watch?v=HIX2RAHPTsI)
 - 📖 reading [Python Design Patterns](https://python-patterns.guide/) (actually, not a book)
-- 🍿 I'm watching [Succession](https://www.imdb.com/title/tt7660850/) and [Game Changer](https://www.imdb.com/title/tt11011104/)
+- 🍿 I'm watching [Succession](https://www.imdb.com/title/tt7660850/) and anything from [Dropout.tv](https://dropout.tv/)
 - 📚 Studying AI (mainly from [DeepLearning.ai](https://www.deeplearning.ai/)) and System Design and Architecture
 - 🎮 on spare time I'm playing [Tactics Ogre: Reborn](https://store.steampowered.com/app/1451090/Tactics_Ogre_Reborn/) and chess on [Lichess](https://lichess.org/)
 - 💻 working on personal projects with [NextJS](https://nextjs.org/), plus [Golang](https://go.dev/)
